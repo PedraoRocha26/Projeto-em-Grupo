@@ -1,6 +1,6 @@
 # Projeto-em-Grupo1
 
-Linguagens utilizads:
+Linguagens utilizadas:
 
 HTML
 CSS
